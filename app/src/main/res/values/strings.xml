@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">list-hacker-news</string>
+    
+    <!-- Títulos de App -->
+    <string name="app_title">Hacker News</string>
+    <string name="offline_mode">Modo sin conexión</string>
+    <string name="offline_start">Iniciado sin conexión</string>
+    
+    <!-- Mensajes de Estado -->
+    <string name="loading">Cargando artículos</string>
+    <string name="error_loading_articles">Error al cargar artículos</string>
+    <string name="no_articles_available">No hay artículos disponibles</string>
+    <string name="try_refresh">Intenta refrescar la lista</string>
+    <string name="unknown_error">Error desconocido</string>
+    
+    <!-- Mensajes de Conectividad -->
+    <string name="no_internet_connection">Sin conexión a internet</string>
+    <string name="showing_local_data">Mostrando datos almacenados localmente</string>
+    <string name="no_local_articles">Sin artículos guardados localmente</string>
+    <string name="connect_to_download">Conéctate a internet para descargar artículos</string>
+    <string name="started_offline_now_online">La app inició sin conexión. Conexión restablecida.</string>
+    <string name="connection_restored_no_refresh">Conexión restablecida, pero no se permite refrescar automáticamente.</string>
+    <string name="no_connection_to_update">No hay conexión a internet para actualizar</string>
+    <string name="connection_lost">Se perdió la conexión a internet. Usando datos locales.</string>
+    
+    <!-- Mensajes de Refresh -->
+    <string name="no_refresh_allowed">No se permite refrescar cuando la app inicia sin conexión.</string>
+    <string name="no_refresh_offline_start">No se permite refrescar cuando la app inició sin conexión.</string>
+    <string name="no_refresh_offline">No se puede refrescar sin conexión.</string>
+    
+    <!-- Metadatos de Artículos -->
+    <string name="author_unknown">Desconocido</string>
+    <string name="time_now">ahora</string>
+    <string name="time_minutes">%1$dm</string>
+    <string name="time_hours">%1$dh</string>
+    <string name="time_days">%1$dd</string>
+    <string name="author_separator"> - </string>
+    
+    <!-- Acciones -->
+    <string name="action_delete">Eliminar</string>
+</resources>
