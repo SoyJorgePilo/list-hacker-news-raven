@@ -84,12 +84,6 @@ app/
 - **Clean Architecture Principles:** Separación de capas y responsabilidades
 - **Kotlin Idioms:** Uso de las características propias de Kotlin (extensions, coroutines, etc.)
 
-## Pruebas
-
-La aplicación incluye:
-- Pruebas unitarias para lógica de negocio
-- Pruebas para el repositorio y ViewModel
-
 ## Instalación y ejecución
 
 1. Clonar el repositorio
@@ -97,20 +91,8 @@ La aplicación incluye:
 3. Sincronizar dependencias con Gradle
 4. Ejecutar la aplicación en un emulador o dispositivo real
 
-## Capturas de pantalla
-
-[Nota: Se añadirían capturas de pantalla de las principales funcionalidades]
-
 ## Requerimientos
 
 - Android 7.1 (API 25) o superior
 - Android Studio Iguana o superior
 - Kotlin 1.9.0 o superior
-
-## Mejoras futuras
-
-- Implementar búsqueda de artículos
-- Añadir modo oscuro
-- Permitir guardar artículos como favoritos
-- Compartir artículos
-- Añadir análisis (analytics) para entender el uso
